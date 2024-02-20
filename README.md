@@ -1,4 +1,9 @@
-# httpcode600.github.io
+# httpcode600.github.io blog project.
+
+## 목표하는 블로그와 개발자
+- **IT 뉴스와 견해**를 정리하는 블로그
+- **개인 공부 내용**을 정리하는 블로그
+- 블로그 글을 올리며 **MarkUp 언어 숙달**
 
 ## Project setup
 ```
